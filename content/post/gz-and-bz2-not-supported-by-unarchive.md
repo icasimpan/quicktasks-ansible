@@ -1,6 +1,7 @@
 ---
 title: "gz and bz2 Not Supported by unarchive"
 date: 2019-09-21T00:20:25+08:00
+tags: [ansible]
 draft: false
 ---
 

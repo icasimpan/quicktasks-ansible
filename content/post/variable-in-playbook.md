@@ -1,6 +1,7 @@
 ---
 title: "Variable in a Playbook"
 date: 2019-09-21T00:20:25+08:00
+tags: [ansible]
 draft: false
 ---
 ex. Set the 'webserver_name' variable as 'httpd'

@@ -1,6 +1,7 @@
 ---
 title: "Ansible Multiple Conditions Using when ons Single Task.md"
 date: 2020-03-11T00:20:25+08:00
+tags: [ansible]
 draft: false
 ---
 

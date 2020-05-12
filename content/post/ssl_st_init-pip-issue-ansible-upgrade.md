@@ -1,6 +1,7 @@
 ---
 title: "After Upgrading Ansible, pip had an issue SSL_ST_INIT"
 date: 2019-09-21T00:20:25+08:00
+tags: [ansible]
 draft: false
 ---
 
