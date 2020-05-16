@@ -1,7 +1,7 @@
 ---
 title: "Rebooting a Machine via Ansible"
 date: 2019-09-21T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, reboot]
 draft: false
 ---
 
