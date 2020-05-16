@@ -1,7 +1,7 @@
 ---
 title: "blockinfline module"
 date: 2019-09-21T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, blockinfile, module]
 draft: false
 ---
 You need to add a "marker" in order NOT to overwrite current content.
