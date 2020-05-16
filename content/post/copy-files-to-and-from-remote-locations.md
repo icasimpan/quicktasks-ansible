@@ -1,7 +1,7 @@
 ---
 title: "Copy Files To and From Remote Locations"
 date: 2019-09-21T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, copy-file, copy, remote]
 draft: false
 ---
 
