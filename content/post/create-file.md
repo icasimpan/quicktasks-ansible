@@ -1,7 +1,7 @@
 ---
 title: "Create File"
 date: 2019-09-21T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, create-file]
 draft: false
 ---
 
