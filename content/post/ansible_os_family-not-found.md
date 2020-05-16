@@ -1,7 +1,7 @@
 ---
 title: "ansible_os_family Not Found"
 date: 2019-09-21T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, facts]
 draft: false
 ---
 
