@@ -1,7 +1,7 @@
 ---
 title: "Curl type download in Ansible"
 date: 2020-03-11T00:20:25+08:00
-tags: [ansible]
+tags: [ansible, curl, download]
 draft: false
 ---
 
