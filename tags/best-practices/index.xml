@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>best-practices on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/best-practices/</link>
+    <description>Recent content in best-practices on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Best Practices</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/ansible-best-practices/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/ansible-best-practices/</guid>
+      <description>http://docs.ansible.com/ansible/latest/playbooks_best_practices.html</description>
+    </item>
+    
+  </channel>
+</rss>

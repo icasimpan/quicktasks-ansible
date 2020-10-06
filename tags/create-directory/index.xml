@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>create-directory on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/create-directory/</link>
+    <description>Recent content in create-directory on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/create-directory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Directory</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/create-directory/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/create-directory/</guid>
+      <description>--- - hosts: localhost become: true tasks: - name: Create directory file: path: /tmp/yallo_dir state: directory  Ref http://docs.ansible.com/ansible/latest/file_module.html</description>
+    </item>
+    
+  </channel>
+</rss>

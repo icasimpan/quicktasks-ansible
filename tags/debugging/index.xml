@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debugging on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/debugging/</link>
+    <description>Recent content in debugging on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debugging Ansible</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/debugging-ansible/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/debugging-ansible/</guid>
+      <description>https://blog.codecentric.de/en/2017/06/debug-ansible-playbooks-like-pro/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>install on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/install/</link>
+    <description>Recent content in install on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/install/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install rpm via Ansible</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/install-rpm-in-ansible/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/install-rpm-in-ansible/</guid>
+      <description>Manual
+sudo rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm  In Ansible:
+- name: Add Web Static Repo yum: name: https://mirror.webtatic.com/yum/el7/webtatic-release.rpm state: present  </description>
+    </item>
+    
+    <item>
+      <title>Install Several Packages in a Loop</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/install-several-packages-in-loop/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/install-several-packages-in-loop/</guid>
+      <description>Manual
+sudo yum install -y mod_php71w php71w-cli php71w-common php71w-gd php71w-mbstring php71w-mcrypt php71w-mysqlnd php71w-xml  In Ansible:
+- name: Install needed php7 packages yum: name={{ item }} state=present with_items: - mod_php71w - php71w-cli - php71w-common - php71w-gd - php71w-mbstring - php71w-mcrypt - php71w-mysqlnd - php71w-xml  </description>
+    </item>
+    
+    <item>
+      <title>Managing Ansible Installation</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/managing-ansible-installation/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/managing-ansible-installation/</guid>
+      <description>To be able to change versions, it&amp;rsquo;s best to use pip
+pip install -I ansible==2.0.2  More details in https://askubuntu.com/questions/820892/how-to-downgrade-ansible-2-1-1-0-to-2-0-2</description>
+    </item>
+    
+  </channel>
+</rss>

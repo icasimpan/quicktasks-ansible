@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>error on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/error/</link>
+    <description>Recent content in error on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Field Loop Error</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/field-loop-error/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/field-loop-error/</guid>
+      <description>If you see the error below:
+ERROR! The field &#39;loop&#39; is supposed to be a string type, however the incoming data structure is a &amp;lt;class &#39;ansible.parsing.yaml.objects.AnsibleSequence&#39;&amp;gt;  Upgrade your ansible to at least version 2.5. The &amp;lsquo;loop&amp;rsquo; keyword is defined starting that version. See https://stackoverflow.com/questions/49680809/ansible-loop-error</description>
+    </item>
+    
+  </channel>
+</rss>

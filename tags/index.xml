@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ansible | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-ansible/tags/</link>
+    <description>Recent content in Tags on ansible | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-ansible/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ansible</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/ansible/</link>
+      <pubDate>Tue, 06 Oct 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>playbook</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/playbook/</link>
+      <pubDate>Tue, 06 Oct 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/playbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sudo</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/sudo/</link>
+      <pubDate>Tue, 06 Oct 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/sudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conditional</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/conditional/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/conditional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curl</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/curl/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/curl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>download</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/download/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-condition</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/multi-condition/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/multi-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiple</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/multiple/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>best-practices</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/best-practices/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockinfile</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/blockinfile/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/blockinfile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>check-os</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/check-os/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/check-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compression</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/compression/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copy</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/copy/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copy-file</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/copy-file/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/copy-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create-directory</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/create-directory/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/create-directory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create-file</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/create-file/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/create-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debugging</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/debugging/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/error/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facts</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/facts/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/facts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gz</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/gz/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/gz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gz2</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/gz2/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/gz2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hosts</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/hosts/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/hosts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/install/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logs</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/logs/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/logs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loop</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/loop/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>module</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/module/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/module/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>package</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/package/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paramiko</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/paramiko/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/paramiko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pip</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/pip/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/pip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reboot</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/reboot/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/reboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/remote/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpm</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/rpm/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/rpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/shell/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skeleton</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/skeleton/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/skeleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/ssh/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/ssl/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>string</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/string/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/string/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syslog</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/syslog/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/syslog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unarchive</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/unarchive/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/unarchive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upgrade</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/upgrade/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/upgrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variable</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/variable/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vault</title>
+      <link>https://ismael.casimpan.com/quicktasks-ansible/tags/vault/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-ansible/tags/vault/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

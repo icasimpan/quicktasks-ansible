@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/post/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/ansible/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible-error-sudo-not-valid-attribute-for-play/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/playbook/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/sudo/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/</loc>
+    <lastmod>2020-10-06T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible-multiple-conditions-using-when/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/conditional/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/curl/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/curl-type-dowload-in-ansible/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/download/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/multi-condition/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/multiple/</loc>
+    <lastmod>2020-03-11T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ssl_st_init-pip-issue-ansible-upgrade/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible-best-practices/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible-logs-controlled-machine/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible-vault-tutorials/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/ansible_os_family-not-found/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/best-practices/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/blockinfile/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/blockinfline-module/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/check-all-facts/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/check-os-type/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/check-os/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/compression/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/copy/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/copy-files-to-and-from-remote-locations/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/copy-file/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/create-playbook-skeleton/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/create-directory/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/create-file/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/create-directory/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/create-file/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/debugging/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/debugging-ansible/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/children-labels-hosts-file/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/error/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/facts/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/field-loop-error/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/gz/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/gz-and-bz2-not-supported-by-unarchive/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/gz2/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/hosts/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/install/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/install-rpm-in-ansible/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/install-several-packages-in-loop/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/logs/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/loop/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/managing-ansible-installation/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/module/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/package/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/paramiko/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/pip/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/reboot/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/rebooting-machine-via-ansible/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/remote/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/replace-ssh-connectivity-with-paramiko/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/rpm/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/run-ansible-playbook/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/save-shell-command-output-to-ansible-variable/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/shell/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/skeleton/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/ssh/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/ssl/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/string/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/get-characters-left-in-variable/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/syslog/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/unarchive/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/upgrade/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/variable/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/variable-in-playbook/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/tags/vault/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-ansible/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>
